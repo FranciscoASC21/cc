@@ -15,15 +15,15 @@ form {
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 60px;
 }
 
 input {
-  font-size: 30px;
+  font-size: 40px;
 }
 
 button {
-  font-size: 30px;
+  font-size: 40px;
 }
 
 #content {
@@ -48,7 +48,7 @@ img {
   margin-left: 5vw;
   margin-right: 5vw;
   margin-bottom: 50px;
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .flip-card {
@@ -95,7 +95,7 @@ img {
 
 #message div p {
   width: 50vw;
-  font-size: 22px;
+  font-size: 30px;
   line-height: 135%;
 }
 #message div img {
